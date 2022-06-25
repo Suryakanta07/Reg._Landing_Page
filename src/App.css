@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+.userData{
+  width: 380px;
+  height: 200px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 2% 0 10% 35%;
+}
+.thanks{
+  margin: 10% 0 0 0;
+  text-align: center;
+}
+.thanksRegister{
+  margin: 10% 0 30% 0;
+  text-align: center;
+}
